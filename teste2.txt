@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 texto 2 eclipse
 texto 2 git
+=======
+texto 2 git
+>>>>>>> branch 'master' of https://github.com/diegosaraivaf/teste.git
