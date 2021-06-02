@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 teste11 github
 teste11 eclipse
+=======
+teste11 github
+>>>>>>> branch 'master' of https://github.com/diegosaraivaf/teste.git
