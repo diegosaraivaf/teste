@@ -1,2 +1,2 @@
-texto 1 git  
-texto 1 clipse 1
+texto 1 git
+texto 1 clipse 1 2
